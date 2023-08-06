@@ -22,8 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "lint:check": "prettier -c .",
-    "lint:fix": "prettier -w .",
+    "lint:c": "prettier -c .",
+    "lint:f": "prettier -w .",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
